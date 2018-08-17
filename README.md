@@ -6,13 +6,13 @@ Python TensorFlow implementation of theories described in [Learning Internal Rep
 
 ### Simulation Results
 
-[1. The XOR Problem](1.%20The%20XOR%20Problem)
-[2. Parity]()
-[3. The Encoding Problem]()
-[4. Symmetry]()
-[5. Addition]()
-[6. The Negation Problem]()
-[7. The T-C Problem]()
+- [1. The XOR Problem](1.%20The%20XOR%20Problem)
+- [2. Parity](2.%20Parity)
+- [3. The Encoding Problem](3.%20The%20Encoding%20Problem)
+- [4. Symmetry](4.%20Symmetry)
+- [5. Addition](5.%20Addition)
+- [6. The Negation Problem](6.%20The%20Negation%20Problem)
+- [7. The T-C Problem](7.%20The%20T-C%20Problem)
 
 ---
 
