@@ -6,6 +6,7 @@ Python TensorFlow implementation of theories described in [Learning Internal Rep
 
 ### Simulation Results
 
+- [0. Introduction](0.%20Introduction)
 - [1. The XOR Problem](1.%20The%20XOR%20Problem)
 - [2. Parity](2.%20Parity)
 - [3. The Encoding Problem](3.%20The%20Encoding%20Problem)
@@ -13,6 +14,7 @@ Python TensorFlow implementation of theories described in [Learning Internal Rep
 - [5. Addition](5.%20Addition)
 - [6. The Negation Problem](6.%20The%20Negation%20Problem)
 - [7. The T-C Problem](7.%20The%20T-C%20Problem)
+- [8. Recurrent Nets](8.%20Recurrent%20Nets)
 
 ---
 
