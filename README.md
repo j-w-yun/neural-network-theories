@@ -4,7 +4,7 @@ Python TensorFlow implementation of theories described in [Learning Internal Rep
 
 ---
 
-### Simulation Results
+### Table of Contents
 
 - [0. Introduction](0.%20Introduction)
 - [1. The XOR Problem](1.%20The%20XOR%20Problem)
@@ -18,7 +18,7 @@ Python TensorFlow implementation of theories described in [Learning Internal Rep
 
 ---
 
-### Python Libraries Used
+### Required Python Libraries
 
 	matplotlib
 	numpy
